@@ -1,6 +1,8 @@
 # Ciencialab - Taller de Videojuegos
 
-[Ficheros para el proyecto](http://google.com)
+[Ficheros para el proyecto](https://juanizquierdodomenech.github.io/ciencialab-videojuegos/assets/Flappy.zip)
+
+![Image](https://juanizquierdodomenech.github.io/ciencialab-videojuegos/assets/birdfant.gif){: height="350px"}
 
 
 <!--
